@@ -1,0 +1,17 @@
+@font-face {
+    font-family: GameFont;
+    src: url("pkmndp.ttf");
+}
+
+@font-faceNumber {
+    font-family: GameFontNumber;
+    src: url("advanced_pixel_lcd-7.ttf");
+}
+
+
+.IIV::-webkit-media-controls-play-button,
+video::-webkit-media-controls-start-playback-button {
+    opacity: 0;
+    pointer-events: none;
+    width: 5px;
+}

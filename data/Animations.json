@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"animation1Hue":0,"animation1Name":"cutting damage","animation2Hue":0,"animation2Name":"","frames":[[[0,0,0,100,0,0,255,0]],[[1,0,0,100,0,0,255,0]],[[2,0,0,100,0,0,255,0]],[[3,0,0,100,0,0,255,0]],[[4,0,0,100,0,0,255,0]]],"name":"Slash 1","position":1,"timings":[]},
+{"id":2,"animation1Hue":0,"animation1Name":"","animation2Hue":0,"animation2Name":"","frames":[[]],"name":"","position":1,"timings":[]},
+{"id":3,"animation1Hue":0,"animation1Name":"","animation2Hue":0,"animation2Name":"","frames":[[]],"name":"","position":1,"timings":[]},
+{"id":4,"animation1Hue":207,"animation1Name":"aqua","animation2Hue":0,"animation2Name":"","frames":[[[7,0,0,100,0,0,255,0]],[[7,0,0,80,0,0,255,0]],[[7,0,0,60,0,0,255,0]],[[7,0,0,40,0,0,255,0]],[[7,0,0,20,0,0,255,0]]],"name":"Heal","position":1,"timings":[{"flashColor":[255,255,255,255],"flashDuration":5,"flashScope":1,"frame":3,"se":null}]},
+{"id":5,"animation1Hue":0,"animation1Name":"","animation2Hue":0,"animation2Name":"","frames":[[]],"name":"","position":1,"timings":[]},
+{"id":6,"animation1Hue":0,"animation1Name":"","animation2Hue":0,"animation2Name":"","frames":[[]],"name":"","position":1,"timings":[]},
+{"id":7,"animation1Hue":0,"animation1Name":"fire","animation2Hue":0,"animation2Name":"","frames":[[[0,-12,-62,100,0,0,255,0],[0,16,-64,100,0,1,255,0]],[[1,-12,-62,100,0,0,255,0],[1,16,-64,100,0,1,255,0]],[[2,-12,-62,100,0,0,255,0],[2,16,-64,100,0,1,255,0]],[[3,-12,-62,100,0,0,255,0],[3,16,-64,100,0,1,255,0]],[[4,-12,-62,100,0,0,255,0],[4,16,-64,100,0,1,255,0]],[[4,-48,-112,80,0,0,180,0],[4,48,-112,80,0,1,180,0]],[[4,-64,-128,80,0,0,90,0],[4,64,-128,80,0,1,90,0]]],"name":"Fire 1","position":2,"timings":[]},
+{"id":8,"animation1Hue":0,"animation1Name":"","animation2Hue":0,"animation2Name":"","frames":[[]],"name":"","position":1,"timings":[]},
+{"id":9,"animation1Hue":0,"animation1Name":"","animation2Hue":0,"animation2Name":"","frames":[[]],"name":"","position":1,"timings":[]},
+{"id":10,"animation1Hue":0,"animation1Name":"aqua","animation2Hue":0,"animation2Name":"","frames":[[[0,0,0,100,0,0,255,0]],[[1,0,0,100,0,0,255,0]],[[2,0,0,100,0,0,255,0]],[[3,0,0,100,0,0,255,0]],[[4,0,0,100,0,0,255,0]],[[5,0,0,100,0,0,255,0]],[[6,0,0,100,0,0,255,0]],[[7,0,0,100,0,0,255,0]],[[8,0,0,100,0,0,255,0]]],"name":"Aqua 1","position":1,"timings":[]},
+{"id":11,"animation1Hue":0,"animation1Name":"","animation2Hue":0,"animation2Name":"","frames":[[]],"name":"","position":1,"timings":[]},
+{"id":12,"animation1Hue":0,"animation1Name":"","animation2Hue":0,"animation2Name":"","frames":[[]],"name":"","position":1,"timings":[]}
+]
